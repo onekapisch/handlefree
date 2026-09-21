@@ -1,0 +1,19 @@
+name: Suggest an improvement
+description: A concrete idea for making nearby vehicle entry easier.
+title: "[Idea]: "
+labels: [enhancement]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: What gets in your way?
+      description: Describe the situation or accessibility need without personal information.
+    validations:
+      required: true
+  - type: textarea
+    id: outcome
+    attributes:
+      label: What would make it easier?
+      description: Explain the desired outcome and any alternatives you have tried.
+    validations:
+      required: true

@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Pairing and setup help
+    url: https://www.onekapisch.com/teslatch/support/
+    about: Start with the pairing, Shortcuts and Watch guide.
+  - name: Beta access
+    url: https://www.onekapisch.com/teslatch/#beta
+    about: Check current beta availability on the official website.
+  - name: Security or private support
+    url: mailto:support@onekapisch.com
+    about: Never publish keys, VINs, locations or sensitive diagnostics.
