@@ -1,5 +1,5 @@
 name: Report a beta problem
-description: Share a reproducible Teslatch issue without personal or vehicle identifiers.
+description: Share a reproducible Handlefree issue without personal or vehicle identifiers.
 title: "[Bug]: "
 labels: [bug]
 body:

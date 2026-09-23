@@ -1,4 +1,4 @@
-# Teslatch compatibility
+# Handlefree compatibility
 
 Last reviewed: 21 September 2026.
 
@@ -25,4 +25,4 @@ The app includes Model 3/S/X/Y appearance choices. Artwork selection does not en
 - Reader locations vary by vehicle; follow model-appropriate pairing instructions.
 - France is excluded from the initial beta.
 
-For troubleshooting, use the [support guide](https://www.onekapisch.com/teslatch/support/). When reporting compatibility, supply model/year, software version, app build and the particular action. Do not publish a VIN, key or location.
+For troubleshooting, use the [support guide](https://handlefree.app/support/). When reporting compatibility, supply model/year, software version, app build and the particular action. Do not publish a VIN, key or location.

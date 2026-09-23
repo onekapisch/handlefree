@@ -1,10 +1,10 @@
 blank_issues_enabled: false
 contact_links:
   - name: Pairing and setup help
-    url: https://www.onekapisch.com/teslatch/support/
+    url: https://handlefree.app/support/
     about: Start with the pairing, Shortcuts and Watch guide.
   - name: Beta access
-    url: https://www.onekapisch.com/teslatch/#beta
+    url: https://handlefree.app/pricing/#beta
     about: Check current beta availability on the official website.
   - name: Security or private support
     url: mailto:support@onekapisch.com
