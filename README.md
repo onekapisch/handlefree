@@ -134,7 +134,7 @@ Use a [bug report](https://github.com/onekapisch/handlefree/issues/new?template=
 
 ## Made by OneKapisch
 
-Built by **OneKapisch (Aeon GbR)**, an independent studio in Fürth, Germany.
+Built by **OneKapisch**, an independent Software Studio in 🇩🇪
 
 [handlefree.app](https://handlefree.app/) · [Explore the studio](https://www.onekapisch.com/) · [More apps](https://www.onekapisch.com/products/)
 
