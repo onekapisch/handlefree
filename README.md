@@ -1,4 +1,4 @@
-<a href="https://handlefree.app/"><img src="assets/handlefree-banner.png" width="100%" alt="Handlefree — Skip the handle. One press. Every door, Shortcuts, Action Button, Control Center and Apple Watch. Visit handlefree.app."></a>
+<a href="https://handlefree.app/"><img src="assets/handlefree-banner.png" width="100%" alt="Handlefree, new release — Skip the handle of your Tesla. A simpler way in. Every door, Shortcuts, Action Button, Control Center and Apple Watch. Visit handlefree.app."></a>
 
 # Handlefree · Skip the handle for your Tesla
 
