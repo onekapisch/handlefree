@@ -1,5 +1,6 @@
 # Next updates
 
-- At App Store release: add the App Store link and badge to both READMEs, change the status note, replace the BETA badge in assets/handlefree-banner.png (onekapisch/onekapisch, scripts/build-bento.mjs) and point the issue-template link at the App Store listing.
+- 1 November 2026: the launch price ends. Change Pro to €19.99 / 19,99 € in both READMEs and docs/COMPATIBILITY.md and remove the launch-price wording (handlefree.app switches automatically).
+- When 1.0.1 is released: mention the "Which Tesla?" first start (Model 3, Y, S and X, with the card-reader location for each).
 - Replace the simulator screenshots with real iPhone captures when the App Store set is updated.
-- Expand compatibility evidence as testers verify specific model/year/software combinations.
+- Expand compatibility evidence as owners confirm specific model/year/software combinations, especially Model S and X from 2021.

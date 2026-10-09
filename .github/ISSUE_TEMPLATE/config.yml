@@ -3,9 +3,12 @@ contact_links:
   - name: Pairing and setup help
     url: https://handlefree.app/support/
     about: Start with the pairing, Shortcuts and Watch guide.
-  - name: Download, beta and pricing
+  - name: Download Handlefree
+    url: https://apps.apple.com/app/handlefree-skip-the-handle/id6813757204
+    about: Free on the App Store. The driver door stays free forever.
+  - name: Pricing
     url: https://handlefree.app/pricing/
-    about: App Store and TestFlight availability, Free vs Pro, and the 7-day trial.
+    about: Free vs Pro, the launch price and the 7-day trial.
   - name: Security or private support
     url: mailto:support@onekapisch.com
     about: Never publish keys, VINs, locations or sensitive diagnostics.

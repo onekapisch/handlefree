@@ -1,5 +1,14 @@
 # Showcase changelog
 
+## 2026-10-09 — App Store launch
+
+- Handlefree 1.0 is on the App Store (released 7 October 2026). Both READMEs lead with Apple's official App Store badge and a "Now on the App Store" note; TestFlight is no longer the way in.
+- New "On a real car" section with a still from the real-car clip on handlefree.app (English and German), replacing the link to the simulated film.
+- Pricing shows the launch price: Pro €9.99 once until 31 October 2026, then €19.99.
+- Compatibility: Model 3 confirmed by owners; Model S and X built before 2021 cannot pair (no phone key). New FAQ "Which Teslas work?". Availability names iPhone.
+- The banner no longer carries the BETA badge. Issue templates link to the App Store listing.
+- The German studio credit matches the English one.
+
 ## 2026-10-04 — Pricing, public beta and 1.0 screenshots
 
 - README now states Free vs Pro (driver door, lock and unlock free; Handlefree Pro €9.99 once, 7-day trial after pairing, Family Sharing, no subscription), links the public TestFlight beta, and notes that 1.0 is in App Store review.
