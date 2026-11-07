@@ -1,6 +1,6 @@
 # Showcase changelog
 
-## 2026-11-07 — Launch price ended
+## 2026-11-07: launch price ended
 
 - Pro is €19.99 / 19,99 € once (US $19.99); launch-price wording removed from both READMEs and docs/COMPATIBILITY.md.
 - Model S and X row matches handlefree.app: Model S from 2021 presents the door handle instead of unlatching, frunk and trunk work; Model X not yet tested.
