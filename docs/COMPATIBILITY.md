@@ -10,7 +10,7 @@ Last reviewed: 9 October 2026.
 
 ## Cannot pair
 
-- **Model S and Model X built before 2021.** They do not support Bluetooth phone keys, so Handlefree has nothing to pair with. Model S and X from 2021 support phone keys but have not been confirmed by testers yet.
+- **Model S and Model X built before 2021.** They do not support Bluetooth phone keys, so Handlefree has nothing to pair with. On Model S from 2021 the doors present the handle instead of unlatching; frunk and trunk work. Model X from 2021 is not yet tested.
 
 These are individual reports, not an independent certification or a guarantee across Tesla models, years or software versions.
 
@@ -31,7 +31,7 @@ The app includes Model 3/S/X/Y appearance choices. Artwork selection does not en
 - A nearby iPhone for both phone and Watch commands; no standalone Watch key in this version.
 - Bluetooth reachability is not a precise distance measurement. No fixed distance promise.
 - Reader locations vary by vehicle; follow model-appropriate pairing instructions.
-- Passenger and rear doors, frunk, trunk, charge-port cover and Apple Watch are part of Handlefree Pro after the 7-day trial (€9.99 once until 31 October 2026, then €19.99); the driver door, lock and unlock are free.
+- Passenger and rear doors, frunk, trunk, charge-port cover and Apple Watch are part of Handlefree Pro after the 7-day trial (€19.99 once in Germany, local price on the App Store); the driver door, lock and unlock are free.
 - iPhone only. Handlefree is not available in France.
 
 For troubleshooting, use the [support guide](https://handlefree.app/support/). When reporting compatibility, supply model/year, software version, app version and the particular action. Do not publish a VIN, key or location.

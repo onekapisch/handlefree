@@ -43,7 +43,7 @@ Handlefree (früher Teslatch) ist eine native iPhone-App, die die Tesla-Tür dei
 | **Apple Kurzbefehle und Siri** | Siri-Sätze, native App Intents und fertige Kurzbefehle für unterstützte Aktionen. |
 | **Aktionstaste des iPhone** | Lege einen Tür-Kurzbefehl auf ein iPhone mit Aktionstaste. |
 | **Kontrollzentrum und Sperrbildschirm** | Eine feste Steuerung pro Tür ab iOS 18. Jede öffnet Handlefree und sendet genau diese Tür. |
-| **Apple Watch** | Zugang zur Fahrertür, auch als Komplikation auf dem Zifferblatt, über das gekoppelte iPhone. |
+| **Apple Watch** | Zugang zur Fahrertür (Handlefree Pro), auch als Komplikation auf dem Zifferblatt, über das gekoppelte iPhone. |
 | **Fahrzeugansicht** | Steuerungen für Türen, Frunk, Kofferraum und Ladeklappe, passend zu deiner Lenkradseite. |
 | **Favoriten** | Zwei häufig genutzte Steuerungen direkt unter der Haupttaste. |
 | **Ehrliche Rückmeldung** | Angefragt, vom Auto angenommen, als offen gemeldet oder nicht verfügbar, dazu die Dauer eines abgeschlossenen Befehls. Eine Bestätigung gilt nicht als Beweis, dass sich eine Tür bewegt hat. |
@@ -55,7 +55,7 @@ Handlefree (früher Teslatch) ist eine native iPhone-App, die die Tesla-Tür dei
 | Kostenlos | Handlefree Pro |
 | --- | --- |
 | Fahrertür entriegeln, verriegeln und entriegeln, in der App und per Siri, Kurzbefehl, Aktionstaste und Kontrollzentrum. Urlaubsmodus und alle Sicherheitseinstellungen. | Beifahrer- und hintere Türen, Frunk, Kofferraum, Ladeklappe und Apple Watch. |
-| Dauerhaft kostenlos. | **9,99 € einmalig, Einführungspreis bis 31. Oktober 2026**, danach 19,99 € (im App Store in deiner Landeswährung). Kein Abo. Über die Familienfreigabe teilbar. |
+| Dauerhaft kostenlos. | **19,99 € einmalig** in Deutschland (im App Store in deiner Landeswährung). 7 Tage kostenlos testen nach dem Koppeln. Kein Abo. Über die Familienfreigabe teilbar. |
 
 Alle Pro-Funktionen kannst du **7 Tage** kostenlos testen, ab dem Koppeln deines Autos. Danach funktionieren die kostenlosen Funktionen weiter. Kauf wiederherstellen und Code einlösen findest du in der App. Die Zahlung wickelt Apple ab; Handlefree sieht deine Karte nie. Details: [handlefree.app/de/pricing](https://handlefree.app/de/pricing/).
 
@@ -76,7 +76,7 @@ Apple verarbeitet Käufe im App Store. Wenn du an einer TestFlight-Beta teilnimm
 | iPhone | iOS 17 oder neuer (Kontrollzentrum und Sperrbildschirm ab iOS 18); Bluetooth an; ein kompatibler Tesla und eine vorhandene Schlüsselkarte zum Koppeln. |
 | Apple Watch | watchOS 10 oder neuer; gekoppeltes iPhone in der Nähe. Diese Version ist kein eigenständiger Watch-Schlüssel. |
 | Fahrzeuge | Teslas, die Bluetooth-Telefonschlüssel unterstützen. Bestätigt bisher: das Model Y des Entwicklers (alle vier Türen, Frunk und Kofferraum), das Model Y Standard eines Beta-Testers und Model 3, gemeldet von Besitzern. Das ist keine Freigabe für alle Fahrzeuge. |
-| Model S und X | Fahrzeuge ab 2021 unterstützen Telefonschlüssel und sollten sich koppeln lassen, sind von Testern aber noch nicht bestätigt. Model S und X vor 2021 haben keinen Telefonschlüssel und lassen sich nicht koppeln. |
+| Model S und X | Beim Model S ab 2021 präsentieren die Türen den Griff, statt zu entriegeln; Frunk und Kofferraum funktionieren. Model X ist noch nicht getestet. Model S und X vor 2021 haben keinen Telefonschlüssel und lassen sich nicht koppeln. |
 | Reichweite | Die Bluetooth-Reichweite schwankt. Es gibt keine garantierte Entfernung. |
 | Ohne Fahrzeugstrom | Handlefree braucht ein Auto mit Strom in Reichweite. Im Notfall nutzt du die mechanische Notentriegelung aus deinem Handbuch. |
 | Verfügbarkeit | iPhone, in allen App-Store-Ländern außer Frankreich. |
@@ -108,7 +108,7 @@ Halte beim Testen den Tür- oder Ladebereich frei. Verlass dich nicht allein auf
 
 **Ist Handlefree kostenlos?**
 
-Fahrertür, Verriegeln und Entriegeln, Urlaubsmodus und alle Sicherheitseinstellungen sind kostenlos. Handlefree Pro ist ein Einmalkauf (9,99 € bis 31. Oktober 2026, danach 19,99 €) für die übrigen Türen, Frunk, Kofferraum, Ladeklappe und Apple Watch, mit 7 Tagen kostenlosem Test nach dem Koppeln.
+Fahrertür, Verriegeln und Entriegeln, Urlaubsmodus und alle Sicherheitseinstellungen sind kostenlos. Handlefree Pro ist ein Einmalkauf (19,99 € in Deutschland) für die übrigen Türen, Frunk, Kofferraum, Ladeklappe und Apple Watch, mit 7 Tagen kostenlosem Test nach dem Koppeln.
 
 **Funktioniert es ohne Internet?**
 
@@ -124,7 +124,7 @@ Standardmäßig muss das iPhone entsperrt sein. Eine optionale Watch-Zugriffsein
 
 **Welche Teslas funktionieren?**
 
-Teslas, die Bluetooth-Telefonschlüssel unterstützen. Model Y und Model 3 sind bestätigt. Model S und X ab 2021 unterstützen Telefonschlüssel; ältere lassen sich nicht koppeln. Teste jede Tür in der App, bevor du dich auf einen Kurzbefehl verlässt.
+Teslas, die Bluetooth-Telefonschlüssel unterstützen. Model Y und Model 3 sind bestätigt. Beim Model S ab 2021 präsentieren die Türen den Griff, statt zu entriegeln, Frunk und Kofferraum funktionieren; Model X ist noch nicht getestet. Model S und X vor 2021 lassen sich nicht koppeln. Teste jede Tür in der App, bevor du dich auf einen Kurzbefehl verlässt.
 
 **Ersetzt Handlefree die Tesla-App?**
 
@@ -152,4 +152,4 @@ Entwickelt von **OneKapisch**, einem unabhängigen Softwarestudio aus 🇩🇪
 
 Handlefree ist eine unabhängige App und steht in keiner Verbindung zu Tesla, Inc. und wird nicht von Tesla unterstützt. Tesla und Fahrzeugnamen gehören ihren jeweiligen Inhabern. Apple, iPhone, Apple Watch, Siri und TestFlight sind Marken von Apple Inc. Die Grafiken sind stilisiert, keine offiziellen Tesla-CAD-Daten.
 
-<sub>Produktinformationen geprüft am 9. Oktober 2026. Verfügbarkeit, Preise und Funktionen können sich ändern; aktuelle Angaben findest du auf handlefree.app.</sub>
+<sub>Produktinformationen geprüft am 7. November 2026. Verfügbarkeit, Preise und Funktionen können sich ändern; aktuelle Angaben findest du auf handlefree.app.</sub>

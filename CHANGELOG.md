@@ -1,5 +1,11 @@
 # Showcase changelog
 
+## 2026-11-07 — Launch price ended
+
+- Pro is €19.99 / 19,99 € once (US $19.99); launch-price wording removed from both READMEs and docs/COMPATIBILITY.md.
+- Model S and X row matches handlefree.app: Model S from 2021 presents the door handle instead of unlatching, frunk and trunk work; Model X not yet tested.
+- Apple Watch row marked as Handlefree Pro.
+
 ## 2026-10-09 — App Store launch
 
 - Handlefree 1.0 is on the App Store (released 7 October 2026). Both READMEs lead with Apple's official App Store badge and a "Now on the App Store" note; TestFlight is no longer the way in.

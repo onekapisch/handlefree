@@ -43,7 +43,7 @@ Handlefree (formerly Teslatch) is a native iPhone app that opens the Tesla door 
 | **Apple Shortcuts and Siri** | Siri phrases, native App Intents and ready-made Shortcuts for supported actions. |
 | **iPhone Action Button** | Assign a door Shortcut on an iPhone with an Action Button. |
 | **Control Center and Lock Screen** | One fixed control per door on iOS 18 or later. Each opens Handlefree and sends exactly that door. |
-| **Apple Watch** | Driver-door access, including a watch-face complication, relayed through the paired iPhone. |
+| **Apple Watch** | Driver-door access (Handlefree Pro), including a watch-face complication, relayed through the paired iPhone. |
 | **Visual vehicle controls** | Spatial door, frunk, trunk and charge-port cover controls, mapped to your steering side. |
 | **Favorites** | Keep two controls you use most right under the main button. |
 | **Honest feedback** | Requested, accepted by the car, reported open or unavailable, plus how long a completed command took. A command acknowledgement is not treated as proof that a door moved. |
@@ -55,7 +55,7 @@ Handlefree (formerly Teslatch) is a native iPhone app that opens the Tesla door 
 | Free | Handlefree Pro |
 | --- | --- |
 | Unlatch the driver door, lock and unlock, in the app and with Siri, Shortcuts, the Action Button and Control Center. Holiday Mode and every safety setting. | Passenger and rear doors, frunk, trunk, charge-port cover and Apple Watch. |
-| Free forever. | **€9.99 once, launch price until 31 October 2026**, then €19.99 (local price on the App Store). No subscription. Shared with your family through Family Sharing. |
+| Free forever. | **€19.99 once** in Germany ($19.99 in the US; local price on the App Store). 7-day free trial after pairing. No subscription. Shared with your family through Family Sharing. |
 
 Every Pro feature is free to try for **7 days**, starting when you pair your car. Afterwards the free features keep working. Restore purchase and Redeem code are in the app. Payment is handled by Apple; Handlefree never sees your card. Details: [handlefree.app/pricing](https://handlefree.app/pricing/).
 
@@ -76,7 +76,7 @@ Apple processes App Store purchases. If you join a TestFlight beta, Apple collec
 | iPhone | iOS 17 or later (Control Center and Lock Screen controls need iOS 18); Bluetooth enabled; a compatible Tesla and an existing vehicle key card for pairing. |
 | Apple Watch | watchOS 10 or later; paired iPhone nearby. This version is not a standalone Watch key. |
 | Vehicles | Teslas that support Bluetooth phone keys. Confirmed so far: the developer's Model Y (all four doors, frunk and trunk), a beta tester's Model Y Standard, and Model 3 cars reported by owners. This is not fleet-wide certification. |
-| Model S and X | Cars built from 2021 support phone keys and should pair, but have not been confirmed by testers yet. Model S and X built before 2021 have no phone key and cannot pair. |
+| Model S and X | On Model S from 2021, the doors present the handle instead of unlatching; frunk and trunk work. Model X is not yet tested. Model S and X built before 2021 have no phone key and cannot pair. |
 | Range | Bluetooth reachability varies. There is no guaranteed distance boundary. |
 | No vehicle power | Handlefree needs a powered, reachable car. In an emergency use the manual door release described in your owner's manual. |
 | Availability | iPhone, in every App Store region except France. |
@@ -108,7 +108,7 @@ Keep the door or cargo area clear when testing. Do not rely on an animation alon
 
 **Is Handlefree free?**
 
-The driver door, locking and unlocking, Holiday Mode and all safety settings are free. Handlefree Pro is a one-time purchase (€9.99 until 31 October 2026, then €19.99) that adds the other doors, frunk, trunk, charge-port cover and Apple Watch, with a 7-day free trial after you pair your car.
+The driver door, locking and unlocking, Holiday Mode and all safety settings are free. Handlefree Pro is a one-time purchase (€19.99 in Germany) that adds the other doors, frunk, trunk, charge-port cover and Apple Watch, with a 7-day free trial after you pair your car.
 
 **Can it work without internet?**
 
@@ -124,7 +124,7 @@ By default the iPhone must be unlocked. An optional Watch-access setting allows 
 
 **Which Teslas work?**
 
-Teslas that support Bluetooth phone keys. Model Y and Model 3 are confirmed. Model S and X from 2021 support phone keys; models built before 2021 cannot pair. Test each door in the app before relying on a Shortcut.
+Teslas that support Bluetooth phone keys. Model Y and Model 3 are confirmed. On Model S from 2021 the doors present the handle instead of unlatching, while frunk and trunk work; Model X is not yet tested. Model S and X built before 2021 cannot pair. Test each door in the app before relying on a Shortcut.
 
 **Does Handlefree replace the Tesla app?**
 
@@ -152,4 +152,4 @@ Built by **OneKapisch**, an independent software studio from 🇩🇪
 
 Handlefree is an independent app and is not affiliated with or endorsed by Tesla, Inc. Tesla and vehicle model names belong to their respective owners. Apple, iPhone, Apple Watch, Siri and TestFlight are trademarks of Apple Inc. Artwork is stylized, not official Tesla CAD.
 
-<sub>Product information reviewed 9 October 2026. Availability, prices and capabilities may change; handlefree.app has the current details.</sub>
+<sub>Product information reviewed 7 November 2026. Availability, prices and capabilities may change; handlefree.app has the current details.</sub>
