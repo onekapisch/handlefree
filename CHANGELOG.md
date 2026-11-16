@@ -1,5 +1,10 @@
 # Showcase changelog
 
+## 2026-11-16: no free/Pro split, 1.0.5 screenshots
+
+- Owner rule (16 Nov): no "driver door free / Pro" marketing. The "Free and Pro" table is now a short Price section linking to handlefree.app/pricing; the FAQ asks "What does Handlefree cost?"; Pro mentions removed from the notice, the Watch row, the passenger-door answer, docs/COMPATIBILITY.md and the issue-template links.
+- Screenshots replaced with four of the five Handlefree 1.0.5 App Store screenshots (EN/DE); the old privacy shot carried "Driver door free · Pro is a one-time purchase".
+
 ## 2026-11-07: launch price ended
 
 - Pro is €19.99 / 19,99 € once (US $19.99); launch-price wording removed from both READMEs and docs/COMPATIBILITY.md.

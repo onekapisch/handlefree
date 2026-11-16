@@ -10,7 +10,7 @@ Handlefree (früher Teslatch) ist eine native iPhone-App, die die Tesla-Tür dei
 
 **[handlefree.app/de →](https://handlefree.app/de/)** · [Am echten Auto ansehen](https://handlefree.app/de/#real) · [Preise](https://handlefree.app/de/pricing/) · [Anleitungen](https://handlefree.app/de/guides/) · [Hilfe](https://handlefree.app/de/support/)
 
-> **Jetzt im App Store.** Handlefree 1.0 ist seit dem 7. Oktober 2026 erhältlich. Der Download ist kostenlos, die Fahrertür bleibt dauerhaft kostenlos.
+> **Jetzt im App Store.** Handlefree ist seit dem 7. Oktober 2026 erhältlich. Kein Konto, kein Internet nötig, entwickelt in Deutschland.
 >
 > Dies ist das offizielle **Produkt- und Feedback-Repository**, nicht der Quellcode der App. Die Fahrzeugsteuerung läuft in der nativen App, nicht im Browser.
 
@@ -29,11 +29,11 @@ Handlefree (früher Teslatch) ist eine native iPhone-App, die die Tesla-Tür dei
 ### Die App im Detail
 
 <table>
-<tr><td width="50%"><a href="assets/de/01-entry.png"><img src="assets/de/01-entry.png" alt="Kein Türgriff. Ein Druck. Startbildschirm von Handlefree mit Live-Status der Fahrertür, Taste zum Entriegeln und Favoriten für Kofferraum und Frunk" width="100%"></a></td><td width="50%"><a href="assets/de/02-controls.png"><img src="assets/de/02-controls.png" alt="Jede Tür. Ein Blick. Fahrzeugsteuerung mit Tasten für Türen, Frunk, Kofferraum und Ladeklappe und einer benannten Bestätigung für den Kofferraum" width="100%"></a></td></tr>
-<tr><td><a href="assets/de/03-no-app.png"><img src="assets/de/03-no-app.png" alt="Ganz ohne App. Kurzbefehle-Tab mit Siri-Satz und Einrichtung für Aktionstaste, Kontrollzentrum und Sperrbildschirm, Siri, Apple Watch und Home-Bildschirm" width="100%"></a></td><td><a href="assets/de/04-privacy.png"><img src="assets/de/04-privacy.png" alt="Dein Schlüssel. Nur am iPhone. Einstellungen mit Handlefree Pro, Favoriten, Watch-Zugriff, Urlaubsmodus und Signalschutz" width="100%"></a></td></tr>
+<tr><td width="50%"><a href="assets/de/01-home.png"><img src="assets/de/01-home.png" alt="Kein Türgriff. Nur ein Tipp. Handlefree öffnet mit deinem Auto: jede Tür, Frunk, Kofferraum und Ladeanschluss da, wo sie am Auto sind, und die Taste zum Entriegeln der Fahrertür" width="100%"></a></td><td width="50%"><a href="assets/de/02-doors-for-two.png"><img src="assets/de/02-doors-for-two.png" alt="Türen für zwei. Einmal halten. Beim Halten der Vordersitze im Auto-Bild leuchten beide Vordertüren auf" width="100%"></a></td></tr>
+<tr><td><a href="assets/de/03-no-app.png"><img src="assets/de/03-no-app.png" alt="App öffnen? Nicht nötig. Kurzbefehle: Wähle, wie du öffnest, per Aktionstaste, Auf Rückseite tippen, Kontrollzentrum und Sperrbildschirm, Siri, Apple Watch und Widgets" width="100%"></a></td><td><a href="assets/de/05-privacy.png"><img src="assets/de/05-privacy.png" alt="Dein Schlüssel. Nur am iPhone. Einstellungen mit Watch-Zugriff, Urlaubsmodus und Signalschutz" width="100%"></a></td></tr>
 </table>
 
-*App-Store-Screenshots von Handlefree 1.0, aufgenommen im iOS-Simulator. Der Hinweis „Simulator-Vorschau · kein Fahrzeug verbunden“ ist bewusst sichtbar. Die Grafik zeigt die Oberfläche; sie bestätigt kein bestimmtes Modell, keine Ausstattung und keine tatsächliche Türposition.*
+*App-Store-Screenshots von Handlefree 1.0.5, aufgenommen im iOS-Simulator mit Demodaten. Die Grafik zeigt die Oberfläche; sie bestätigt kein bestimmtes Modell, keine Ausstattung und keine tatsächliche Türposition.*
 
 ## Was es nützlich macht
 
@@ -43,21 +43,16 @@ Handlefree (früher Teslatch) ist eine native iPhone-App, die die Tesla-Tür dei
 | **Apple Kurzbefehle und Siri** | Siri-Sätze, native App Intents und fertige Kurzbefehle für unterstützte Aktionen. |
 | **Aktionstaste des iPhone** | Lege einen Tür-Kurzbefehl auf ein iPhone mit Aktionstaste. |
 | **Kontrollzentrum und Sperrbildschirm** | Eine feste Steuerung pro Tür ab iOS 18. Jede öffnet Handlefree und sendet genau diese Tür. |
-| **Apple Watch** | Zugang zur Fahrertür (Handlefree Pro), auch als Komplikation auf dem Zifferblatt, über das gekoppelte iPhone. |
+| **Apple Watch** | Zugang zur Fahrertür, auch als Komplikation auf dem Zifferblatt, über das gekoppelte iPhone. |
 | **Fahrzeugansicht** | Steuerungen für Türen, Frunk, Kofferraum und Ladeklappe, passend zu deiner Lenkradseite. |
 | **Favoriten** | Zwei häufig genutzte Steuerungen direkt unter der Haupttaste. |
 | **Ehrliche Rückmeldung** | Angefragt, vom Auto angenommen, als offen gemeldet oder nicht verfügbar, dazu die Dauer eines abgeschlossenen Befehls. Eine Bestätigung gilt nicht als Beweis, dass sich eine Tür bewegt hat. |
 | **Urlaubsmodus** | Pausiert Handlefree-Befehle, bis du den Modus mit Face ID oder Code beendest. Andere Tesla-Schlüssel und Apps bleiben unberührt. |
 | **Deutsch und Englisch** | Lokalisierte Oberfläche und Kurzbefehl-Begriffe. |
 
-## Kostenlos und Pro
+## Preis
 
-| Kostenlos | Handlefree Pro |
-| --- | --- |
-| Fahrertür entriegeln, verriegeln und entriegeln, in der App und per Siri, Kurzbefehl, Aktionstaste und Kontrollzentrum. Urlaubsmodus und alle Sicherheitseinstellungen. | Beifahrer- und hintere Türen, Frunk, Kofferraum, Ladeklappe und Apple Watch. |
-| Dauerhaft kostenlos. | **19,99 € einmalig** in Deutschland (im App Store in deiner Landeswährung). 7 Tage kostenlos testen nach dem Koppeln. Kein Abo. Über die Familienfreigabe teilbar. |
-
-Alle Pro-Funktionen kannst du **7 Tage** kostenlos testen, ab dem Koppeln deines Autos. Danach funktionieren die kostenlosen Funktionen weiter. Kauf wiederherstellen und Code einlösen findest du in der App. Die Zahlung wickelt Apple ab; Handlefree sieht deine Karte nie. Details: [handlefree.app/de/pricing](https://handlefree.app/de/pricing/).
+Handlefree ist im App Store kostenlos zu laden. Die aktuellen Preise stehen auf [handlefree.app/de/pricing](https://handlefree.app/de/pricing/). Die Zahlung wickelt Apple ab; Handlefree sieht deine Karte nie.
 
 ## Datenschutz durch Architektur
 
@@ -106,9 +101,9 @@ Halte beim Testen den Tür- oder Ladebereich frei. Verlass dich nicht allein auf
 
 ## Häufige Fragen
 
-**Ist Handlefree kostenlos?**
+**Was kostet Handlefree?**
 
-Fahrertür, Verriegeln und Entriegeln, Urlaubsmodus und alle Sicherheitseinstellungen sind kostenlos. Handlefree Pro ist ein Einmalkauf (19,99 € in Deutschland) für die übrigen Türen, Frunk, Kofferraum, Ladeklappe und Apple Watch, mit 7 Tagen kostenlosem Test nach dem Koppeln.
+Handlefree ist im App Store kostenlos zu laden. Die aktuellen Preise stehen auf [handlefree.app/de/pricing](https://handlefree.app/de/pricing/).
 
 **Funktioniert es ohne Internet?**
 
@@ -116,7 +111,7 @@ Befehle laufen über lokales Bluetooth, das Auto ist also auch in der Tiefgarage
 
 **Kann ich Beifahrer- oder hintere Türen öffnen, nicht nur die Fahrertür?**
 
-Ja, bei unterstützten Fahrzeugen, mit Handlefree Pro oder während des Tests. Jede Tür ist eine eigene Aktion mit eigenem Kurzbefehl und eigener Steuerung im Kontrollzentrum. Teste jede Tür in der App, bevor du dich auf den Kurzbefehl verlässt.
+Ja, bei unterstützten Fahrzeugen. Jede Tür ist eine eigene Aktion mit eigenem Kurzbefehl und eigener Steuerung im Kontrollzentrum. Teste jede Tür in der App, bevor du dich auf den Kurzbefehl verlässt.
 
 **Funktioniert die Watch, wenn das iPhone gesperrt ist?**
 

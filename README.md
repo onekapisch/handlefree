@@ -10,7 +10,7 @@ Handlefree (formerly Teslatch) is a native iPhone app that opens the Tesla door 
 
 **[handlefree.app →](https://handlefree.app/)** · [See it on a real car](https://handlefree.app/#real) · [Pricing](https://handlefree.app/pricing/) · [Guides](https://handlefree.app/guides/) · [Support](https://handlefree.app/support/)
 
-> **Now on the App Store.** Handlefree 1.0 was released on 7 October 2026. It is free to download; the driver door stays free forever.
+> **Now on the App Store.** Handlefree was released on 7 October 2026. No account, no internet needed, built in Germany.
 >
 > This is the official **product showcase and feedback repository**, not the app's source code. Vehicle control happens in the native app, not in a browser.
 
@@ -29,11 +29,11 @@ Handlefree (formerly Teslatch) is a native iPhone app that opens the Tesla door 
 ### The app, up close
 
 <table>
-<tr><td width="50%"><a href="assets/01-entry.png"><img src="assets/01-entry.png" alt="Skip the handle. One press. Handlefree home screen with live driver-door status, an Unlatch Driver Door button and Trunk and Frunk favorites" width="100%"></a></td><td width="50%"><a href="assets/02-controls.png"><img src="assets/02-controls.png" alt="Every door. One view. Vehicle controls with door, frunk, trunk and charge-port buttons and a named Open Trunk / Close Trunk confirmation" width="100%"></a></td></tr>
-<tr><td><a href="assets/03-no-app.png"><img src="assets/03-no-app.png" alt="No app needed. Shortcuts tab with a Siri phrase and setup for the Action Button, Control Center and Lock Screen, Siri, Apple Watch and Home Screen widgets" width="100%"></a></td><td><a href="assets/04-privacy.png"><img src="assets/04-privacy.png" alt="Your key. Only on iPhone. Settings with Handlefree Pro, favorites, Watch access, Holiday Mode and signal guard" width="100%"></a></td></tr>
+<tr><td width="50%"><a href="assets/01-home.png"><img src="assets/01-home.png" alt="Skip the handle. Tap your phone. Handlefree opens on your car: every door, the frunk, trunk and charge port where they are on the car, and the Unlatch Driver Door button" width="100%"></a></td><td width="50%"><a href="assets/02-doors-for-two.png"><img src="assets/02-doors-for-two.png" alt="Doors for two. One hold. Holding the front seats in the car picture lights up both front doors" width="100%"></a></td></tr>
+<tr><td><a href="assets/03-no-app.png"><img src="assets/03-no-app.png" alt="No need to open the app. Shortcuts: choose how to open with the Action Button, Back Tap, Control Center and Lock Screen, Siri, Apple Watch and Home Screen widgets" width="100%"></a></td><td><a href="assets/05-privacy.png"><img src="assets/05-privacy.png" alt="Your key. Only on iPhone. Settings with Watch access, Holiday Mode and signal guard" width="100%"></a></td></tr>
 </table>
 
-*App Store screenshots of Handlefree 1.0, captured in the iOS Simulator. The "Simulator preview · No vehicle connected" label is visible on purpose. The artwork illustrates the interface; it does not certify a particular model, trim or physical door position.*
+*App Store screenshots of Handlefree 1.0.5, captured in the iOS Simulator with demo data. The artwork illustrates the interface; it does not certify a particular model, trim or physical door position.*
 
 ## What makes it useful
 
@@ -43,21 +43,16 @@ Handlefree (formerly Teslatch) is a native iPhone app that opens the Tesla door 
 | **Apple Shortcuts and Siri** | Siri phrases, native App Intents and ready-made Shortcuts for supported actions. |
 | **iPhone Action Button** | Assign a door Shortcut on an iPhone with an Action Button. |
 | **Control Center and Lock Screen** | One fixed control per door on iOS 18 or later. Each opens Handlefree and sends exactly that door. |
-| **Apple Watch** | Driver-door access (Handlefree Pro), including a watch-face complication, relayed through the paired iPhone. |
+| **Apple Watch** | Driver-door access, including a watch-face complication, relayed through the paired iPhone. |
 | **Visual vehicle controls** | Spatial door, frunk, trunk and charge-port cover controls, mapped to your steering side. |
 | **Favorites** | Keep two controls you use most right under the main button. |
 | **Honest feedback** | Requested, accepted by the car, reported open or unavailable, plus how long a completed command took. A command acknowledgement is not treated as proof that a door moved. |
 | **Holiday Mode** | Pause Handlefree commands until you turn the mode off with Face ID or your passcode. Other Tesla keys and apps are unaffected. |
 | **English and German** | Localized app interface and Shortcut vocabulary. |
 
-## Free and Pro
+## Price
 
-| Free | Handlefree Pro |
-| --- | --- |
-| Unlatch the driver door, lock and unlock, in the app and with Siri, Shortcuts, the Action Button and Control Center. Holiday Mode and every safety setting. | Passenger and rear doors, frunk, trunk, charge-port cover and Apple Watch. |
-| Free forever. | **€19.99 once** in Germany ($19.99 in the US; local price on the App Store). 7-day free trial after pairing. No subscription. Shared with your family through Family Sharing. |
-
-Every Pro feature is free to try for **7 days**, starting when you pair your car. Afterwards the free features keep working. Restore purchase and Redeem code are in the app. Payment is handled by Apple; Handlefree never sees your card. Details: [handlefree.app/pricing](https://handlefree.app/pricing/).
+Handlefree is free to download on the App Store. Current prices are on [handlefree.app/pricing](https://handlefree.app/pricing/). Payment is handled by Apple; Handlefree never sees your card.
 
 ## Privacy by architecture
 
@@ -106,9 +101,9 @@ Keep the door or cargo area clear when testing. Do not rely on an animation alon
 
 ## Questions people ask
 
-**Is Handlefree free?**
+**What does Handlefree cost?**
 
-The driver door, locking and unlocking, Holiday Mode and all safety settings are free. Handlefree Pro is a one-time purchase (€19.99 in Germany) that adds the other doors, frunk, trunk, charge-port cover and Apple Watch, with a 7-day free trial after you pair your car.
+Handlefree is free to download on the App Store. Current prices are on [handlefree.app/pricing](https://handlefree.app/pricing/).
 
 **Can it work without internet?**
 
@@ -116,7 +111,7 @@ Vehicle commands use local Bluetooth, so the car can be reached in a garage with
 
 **Can I open a passenger or rear door, not just the driver's?**
 
-Yes, on supported vehicles, with Handlefree Pro or during the trial. Each door is a separate action with its own Shortcut and Control Center control. Test each door in the app before relying on its Shortcut.
+Yes, on supported vehicles. Each door is a separate action with its own Shortcut and Control Center control. Test each door in the app before relying on its Shortcut.
 
 **Does the Watch work with the iPhone locked?**
 
